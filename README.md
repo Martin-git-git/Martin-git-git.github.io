@@ -1,12 +1,16 @@
 # Martin-git-git.github.io
-Die erste Webseite
+Martins Gitarrenmusik-Webseite
 
 ## Begrüßung
-Dies ist eine erste Webseite von uns als Test. Dies ist der Haupttext.
+Hallo, dies ist eine Webseite von mir, um meine Gitarrenmusik bekannter zu machen.
 
-### Unterkapitel
+## Wer ich bin
+Ich bin ein 11-jähriger Junge und spiele sehr gerne Gitarre. Ich habe vier Lieder selber komponiert (allerdings ohne sie aufzuschreiben).
 
-Dies ist wieder ein Haupttext.
+### Genre der vier Lieder
+Das Genre meiner vier Lieder ist sehr perkussiver Acoustic Rock, allerdings habe ich auch (besonders im dritten Lieder) ein paar Melodieteile eingebaut.
+
+### Beschreibung der vier Lieder
 
 ## Ende
 Viele Grüße an die Welt!
