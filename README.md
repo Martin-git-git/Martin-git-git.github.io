@@ -1,16 +1,7 @@
 # Martin-git-git.github.io
-Martins Gitarrenmusik-Webseite
+Hallo, ich bin ein 11-jähriger und schreibe eine Fantasy-Geschichte. Sie wird auf dieser Website Stück für Stück erweitert.
 
-## Begrüßung
-Hallo, dies ist eine Webseite von mir, um meine Gitarrenmusik bekannter zu machen.
+## Klappentext:
+Giladonve, eine junge Frau, verlor ihr Gedächtnis und erinnerte sich nur noch daran, dass sie sich in einem Kampf befand, hinfiel und das Bewusstsein verlor. Ein alter Schamane fand sie und pflegte sie bis sie wieder bereit war, loszuziehen. Noch weiß Giladonve nicht, wer sie ist und was ihre Aufgabe ist. 
 
-## Wer ich bin
-Ich bin ein 11-jähriger Junge und spiele sehr gerne Gitarre. Ich habe vier Lieder selber komponiert (allerdings ohne sie aufzuschreiben).
-
-### Genre der vier Lieder
-Das Genre meiner vier Lieder ist sehr perkussiver Acoustic Rock, allerdings habe ich auch (besonders im dritten Lieder) ein paar Melodieteile eingebaut.
-
-### Beschreibung der vier Lieder
-
-## Ende
-Viele Grüße an die Welt!
+Eine spannende Geschichte voller Helden und Bösen
