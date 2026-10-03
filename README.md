@@ -3,12 +3,18 @@
 <span style="color:#4d25ff">To = Tolverion (he is the second protagonist; more ideas to Tolverion: see "Tolverion Ideas")</span>>
 <span style="color:#4d25ff">Gr = Grafnah (he is the antagonist, but early he wasn't; more ideas to Grafnah: see "Grafnah Ideas") </span>>
 
-# Contents
+# My Ideas
+
+## Contents
 * [Märunen Ideas](#märunen-ideas):
 * [Giladonve Ideas](#giladonve-ideas):
+   * [Giladonve's parents](#giladonve's-parents)
    * [Giladonve's childhood](#giladonve's-childhood)
-
-# My Ideas
+   * [Giladonve's human shape](#giladonve's-human-shape)
+   * [Giladonve's "god" shape](#giladonve's-"god"-shape)
+* [Tolverion Ideas](#tolverion-ideas):
+   * [Tolverion's parents](tolverion's-parents)
+   * [Tolverion's childhood](tolverion's childhood)
 
 ## Märunen Ideas:
 * They are six.
@@ -61,6 +67,7 @@
 * Tol got his first light amour at just under 12 years old.
 
 ### Tolverion's human shape:
+* 
 
 
 *¹ (The DW is the really antagonist of the story; more ideas: see "Dust Woman Ideas")
