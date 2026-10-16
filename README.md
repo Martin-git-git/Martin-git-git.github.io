@@ -1,8 +1,3 @@
-# Abkürzungen:
-<span style="color:#4d25ff">G = Giladonve (she is the first protagonist; more ideas to Giladonve: see "Giladonve Ideas")</span>>
-<span style="color:#4d25ff">To = Tolverion (he is the second protagonist; more ideas to Tolverion: see "Tolverion Ideas")</span>>
-<span style="color:#4d25ff">Grafnah = Grafnah (he is the antagonist, but early he wasn't; more ideas to Grafnah: see "Grafnah Ideas") </span>>
-
 # My Ideas
 
 ## Contents
@@ -106,7 +101,55 @@
 * Then the dust woman started telling Grafnah lies about the Märunen, the bad world, that had to be destroyed, etc.
 * Because of that Grafnah want to destroy the world.
 
+## Breschner Ideas
+
+### General ideas
+
+* They are the people that life in the mountains.
+* They are technically ahead of other peoples.
+* Especially the women of the Breschner are very strong and good at forging.
+* The men of the Breschner are not so strong
+
+### Inventions of the Breschner:
+
+1. Invention: Only their mines are on the ground. They life in wooden boxes, that are about 15 × 8 × 10 m (L × W × H) in size. The boxes hang from the ceiling on steel chains. The Breschner use these boxes for the following actions:
+
+   * forging
+   * living
+   * breed lifestock
+   * mushroom farms (food for the Breschner).
+   * algae farms (food for the Vhaglies)
+   * grain fields (food for the Revilia, Thenedoren and the Breschner)
+   * meadows (for the lifestock)
+
+2. Invention: They drilled holes in the top of the mountain to collect snow in tanks. If some water is needed, they can always melt down some of the snow, making fire under one of the tanks.
+
+3. Invention: They built pipes connected with the tanks, that are hanging above the boxes. Because of this, they have running water.
+
+## Vhaglie ideas:
+
+### General ideas:
+
+* They are the people that live in the sea.
+* They were created at the same time as the Thenedoren.
+* They are immortal.
+
+### Look:
+
+* The Vhaglies have a general humanoid shape.
+* Their skin colour varies from turquois to dark blue.
+* The Vhaglies have many very small sea animals, for example muscles, on their skin.
+* They have a backfin.
+* On the sides of their lower arms, they have fins, too.
+* Between their fingers they have webbing.
+
+### The Vhaglie King
+
+* __The family tree of the Vhaglie King__
+
 
 *¹ (The dust woman is the really antagonist of the story; more ideas: see "Dust Woman Ideas")
 *² (The Revilia are the forest people in the story; more ideas: see "Revilia Ideas")
 *³ (The Breschner are the people, who live in the mountain; more ideas: see "Breschner Ideas")
+
+
