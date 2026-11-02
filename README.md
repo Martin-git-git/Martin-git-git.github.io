@@ -15,6 +15,8 @@
 *  [Grafnah Ideas](#grafnah-ideas):
    * [Grafah's parents](#grafnah's-parents)
    * [How Grafnah became evil](#how-grafnah-became-evil)
+*  [Breschner Ideas](#breschner-ideas)
+*  
 
 
 ## Märunen Ideas:
