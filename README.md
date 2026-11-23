@@ -103,6 +103,22 @@
 * Then the dust woman started telling Grafnah lies about the Märunen, the bad world, that had to be destroyed, etc.
 * Because of that Grafnah want to destroy the world.
 
+### Grafnah's henchmen:
+
+#### Origin of the henchmen:
+__Possibility 1:__ 
+1. Grafnah's available henchmen steal eggs of animals.
+2. The henchmen bring Grafnah the eggs.
+3. The DW play a dark organ.
+4. Through the organ the animals become evil.
+
+__Possibility 2:__
+1. Grafnah's available henchmen kidnapp people.
+2. They bring these people to Grafnah.
+3. The DW play the dark organ.
+4. Through this the people become evil.
+
+
 ## Breschner Ideas
 
 ### General ideas
@@ -148,10 +164,12 @@
 ### The Vhaglie King
 
 * __The family tree of the Vhaglie King__
-
+[This is isn`t completed yet]
 
 *¹ (The dust woman is the really antagonist of the story; more ideas: see "Dust Woman Ideas")
 *² (The Revilia are the forest people in the story; more ideas: see "Revilia Ideas")
 *³ (The Breschner are the people, who live in the mountain; more ideas: see "Breschner Ideas")
+
+# 
 
 
