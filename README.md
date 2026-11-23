@@ -58,9 +58,9 @@
 * If she is in a battle, her eyes and body without the hair glow red.
 * She can shoot elemental balls (dust balls, lightning balls, fire balls, ice balls and explosive balls) at her enemies.
 
-<img src="Giladonve_normal.jpg" width="50%">
+<img src="Giladonve_normal.jpg" width="34%">
 
-<img src="Giladonve_aiming_bow_003.jpg" width="50%">
+<img src="Giladonve_aiming_bow_003.jpg" width="34%">
 
 ## Tolverion Ideas
 
@@ -92,9 +92,6 @@
 * He can create temporary illusions of oneself.
 * He can create a magic shield.
 
-<img src="Grafnah_version01.jpg" width="50%">
-
-
 ## Grafnah Ideas
 
 ### Grafah's parents:
@@ -124,7 +121,7 @@ __Possibility 2:__
 4. Through this the people become evil.
 
 
-## Breschner Ideas
+<img src="Grafnah_version01.jpg" width="34%">
 
 ### General ideas
 
